@@ -7,7 +7,7 @@
 	<form action="fileUpload.php" method="post" enctype="multipart/form-data">  
     Select File:  
 	    <input type="file" name="fileToUpload"/><br><br>  
-	    <input type="submit" value="Upload Image" name="Upload"/>  
+	    <input type="submit" value="Upload File" name="Upload"/>  
 </form>  
 </body>
 </html>
